@@ -1,0 +1,25 @@
+/* styles.css */
+.btn-copy {
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 0.125rem;
+  outline-width: 1px;
+  outline-style: solid;
+  outline-color: rgba(86, 88, 105, 1);
+  background-color: rgba(52, 53, 65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-copy:hover {
+  background-color: #40414f;
+}
+
+.btn-copy:active {
+  border-color: white;
+  border-width: 1px;
+  outline-color: white;
+  outline-width: 1px;
+}
