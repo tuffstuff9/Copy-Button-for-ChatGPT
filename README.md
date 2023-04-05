@@ -1,4 +1,4 @@
-![background](https://user-images.githubusercontent.com/57072903/229967874-8a0aeb51-4dec-457d-a659-c6d8318b6626.png)
+![background-large](https://user-images.githubusercontent.com/57072903/229968353-305e48fa-adfc-400b-9634-fceae8812f3f.png)
 
 Adds a native looking copy button to ChatGPT messages.
 
